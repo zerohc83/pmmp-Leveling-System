@@ -1,0 +1,10 @@
+name: LevelUP
+main: LevelUP\Main
+api: [3.1.0, 4.0.0]
+version: 2.0.0
+author: Zerothebbg
+
+commands:
+ lvlup:
+  description: Level up with your money!
+  default: true
